@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{E5C00A68-E6DB-FEA3-938C-F34D364EA738}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UDPServer.cs">
+    <Files>
+      <File FileName="Assets/DropCube.cs" Line="36" Column="42" />
+      <File FileName="Assets/Move.cs" />
+      <File FileName="Assets/LocalUdpReceive.cs" />
+      <File FileName="Assets/UDPServer.cs" Line="65" Column="13" />
+      <File FileName="Assets/udpClient.cs" />
+      <File FileName="Assets/UDPC.cs" Line="67" Column="6" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="test" expanded="True">
+            <Node name="Assets" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3cb2893d-127b-40e2-a090-84d560aa38de" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
